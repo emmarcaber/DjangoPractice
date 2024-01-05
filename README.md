@@ -1,4 +1,4 @@
-# Let's Practice Django
+# Let's learn Django
 
 By following the tutorial on its documentation, Django will teach you how to create the following sites:
 
